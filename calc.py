@@ -6,7 +6,7 @@ print("Calculator Program")
 
 while True:
     print("\nSelect operation:")
-    print1. Add")
+    print("1. Add")
     print("2. Subtract")
     print("3. Exit")
 
